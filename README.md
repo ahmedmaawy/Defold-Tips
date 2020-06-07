@@ -6,3 +6,4 @@ This repo aims to curate and document various game inspirations for Defold (by e
 
 * [Ben James' Planet Zero](Planet-Zero-Tips.md).
 * [Björn Ritzl's GB Rausers](GBRausers-Tips.md).
+* [Ben James' Sub Strike](Sub-Strike-Tips.md).
